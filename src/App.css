@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.greenCombo {
+    background-color: #28a745; /* Set the background color to green */
+    color: #fff; /* Set the text color to white or another contrasting color */
+  }
+
